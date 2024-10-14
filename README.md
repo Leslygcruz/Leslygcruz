@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leslygcruz
-- 👀 I’m interested in beocming a full time data anlayst
+- 👀 I’m interested in becoming a full time data anlayst
 - 🌱 I’m currently learning Excel, SQL, PowerBi, Tableau, Python
 - 📫 How to reach me lcruz5008@gmail.com
 - ⚡ Fun fact: I love going to the gym 
